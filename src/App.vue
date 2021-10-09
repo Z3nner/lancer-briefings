@@ -98,6 +98,11 @@ export default {
           "name": "Pitstop",
           "status": "start"
         },
+       {
+          "slug": "002",
+          "name": "Operation Roanoke",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
