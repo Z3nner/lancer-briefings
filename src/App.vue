@@ -101,44 +101,44 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "callsign": "PRESS",
+          "alias": "Lysa Bench",
+          "code": "6459512c-b008-42da-80d8-af02bdb5ecb9//7abb59c3-c14c-42a5-8bac-252736a35496",
+          "corpro": "SSC",
+          "frame": "Atlas",
+          "mech": "BLOODY_SEVEN"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Necrophile"
+          "callsign": "RIFFRAFF",
+          "alias": "Ridge Iscari",
+          "code": "582ed8de-8422-4b5b-8a00-d0e6decbfa7c//6b940251-cc6e-4eec-990c-ec3e7a5b319d",
+          "corpro": "SSC",
+          "frame": "Swallowtail",
+          "mech": "GARURU MK 16.7"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "callsign": "RAVEN",
+          "alias": "CWO JACE RAVEN",
+          "code": "35b63169-1f4d-4bca-8e36-f58a1506aad5//5e327368-bf05-4bb0-996e-18441c4818fd",
+          "corpro": "SSC",
+          "frame": "Duskwing",
+          "mech": "Wraith"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
+          "callsign": "STORMSHOT",
+          "alias": "Latha Sarpy",
+          "code": "2f07437b-adb5-4ff0-bc98-0b12a9ff0c29//f50adb54-8a1f-4201-8c16-22446bcb06fe",
+          "corpro": "IPS-N",
+          "frame": "Caliban",
+          "mech": "A Little Shock"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "callsign": "X",
+          "alias": "Xerath Dinis VI",
+          "code": "2f07437b-adb5-4ff0-bc98-0b12a9ff0c29//99b02e0f-0dc4-4e9e-b29d-7269d9e1c5ea",
+          "corpro": "IPS-N",
+          "frame": "Lancaster",
+          "mech": "Merely Adrift"
         },
       ],
       "header": {
