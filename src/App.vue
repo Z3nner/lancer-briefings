@@ -153,7 +153,7 @@ export default {
         "gate": "WENSHAN",
         "ring": "ANNAMITE / DISTAL",
         "headerTitle": "UNION",
-        "headerSubtitle": "DOJ / HR",
+        "headerSubtitle": "DOJ/HR",
         "subheaderTitle": "LIBERATOR",
         "subheaderSubtitle": "DIAMOND DOGS",
       }
