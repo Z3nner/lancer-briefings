@@ -114,14 +114,6 @@ export default {
           "mech": "BLOODY_SEVEN"
         },
         {
-          "callsign": "RIFFRAFF",
-          "alias": "Ridge Iscari",
-          "code": "582ed8de-8422-4b5b-8a00-d0e6decbfa7c//6b940251-cc6e-4eec-990c-ec3e7a5b319d",
-          "corpro": "SSC",
-          "frame": "Swallowtail",
-          "mech": "GARURU MK 16.7"
-        },
-        {
           "callsign": "RAVEN",
           "alias": "CWO JACE RAVEN",
           "code": "35b63169-1f4d-4bca-8e36-f58a1506aad5//5e327368-bf05-4bb0-996e-18441c4818fd",
