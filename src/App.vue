@@ -146,7 +146,7 @@ export default {
         "ring": "ANNAMITE / DISTAL",
         "headerTitle": "UNION",
         "headerSubtitle": "DOJ/HR",
-        "subheaderTitle": "LIBERATOR",
+        "subheaderTitle": "LIBERATOR AUXILIARY ",
         "subheaderSubtitle": "DIAMOND DOGS",
       }
     }
