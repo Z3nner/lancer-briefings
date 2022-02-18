@@ -89,19 +89,24 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003",
+      "mission_slug": "004",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "003",
-          "name": "Reconnect",
+          "slug": "004",
+          "name": "Subsistance",
           "status": "start"
         },
         {
           "slug": "002",
           "name": "Operation Roanoke",
           "status": "start"
+        },
+        {
+          "slug": "003",
+          "name": "Reconnect",
+          "status": "success"
         },
        {
           "slug": "001",
