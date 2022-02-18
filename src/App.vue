@@ -139,14 +139,6 @@ export default {
           "frame": "Caliban",
           "mech": "A Little Shock"
         },
-        {
-          "callsign": "X",
-          "alias": "Xerath Dinis VI",
-          "code": "2f07437b-adb5-4ff0-bc98-0b12a9ff0c29//99b02e0f-0dc4-4e9e-b29d-7269d9e1c5ea",
-          "corpro": "IPS-N",
-          "frame": "Lancaster",
-          "mech": "Merely Adrift"
-        },
       ],
       "header": {
         "planet": "KIEMENE",
