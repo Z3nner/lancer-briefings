@@ -1,12 +1,21 @@
 # Planet Kiemene - Gateway Region - Calus Preserve // Late 5022U
 Eager to get the UNEF Exiles back into fighting shape, our Lancers woke early, ready to hunt giant mutant Sabertusk pigs. They found the UNEF Exiles paying their last respects to the fallen Bob Calderan, killed in an artillery strike during the battle with the AutoScavs.  After saying their parting words, the group prepared for and departed on the hunt.
+
 Sneaking up on a group of unsuspecting Saburtusk’s, the Lancers triggered their ambush, felling two of the great beasts and forcing a third to flee into a waiting trap.  A fourth however, escaped and Widowmaker gave chase, unwittingly running into the hunting grounds of a great Gricca, a thirty-foot tall genetically engineered reptilian killing machine.  He had just enough time for one panicked radio transmission before the nightmare was upon him.  The Lancers came quickly to his aid, sending forth a withering barrage of fire and finally blasting the creature straight off of him.  Just as they ended the first Gricca, a second came charging in.  It too fell quickly as the Lancers formed a line against which, the Gricca could not hope to break.
+
 Returning to camp with their spoils, the UNEF exiles and our Lancers spent most of the day processing the spoils of their hunt and preparing for the night’s feast.
 Much enjoyment was had, and surprisingly delicious liquor consumed.  In a moment of rare alcohol induced vulnerability Lysa let slip a secret from her past, only to be spurned by Latha.  Latha’s barb did not go unanswered as Lysa’s wrath was vicious and quick.  Only ending when broken apart by the leader of Ruby Squad, CSG Kush Ramsey.  After the altercation, the night quickly begun to wind down.
+
 As the hours grew long, the sun threatening to crest the horizon, Jace sat with Caylor Fielding in hopes of learning as much as he could about situation in Bright.  Fielding spoke of an old Metarius base, lost in the Te’Raggis desert rich in spoils, including whitewash nanites.  He spoke of the reason for this base’s abandonment years before the SecCom fleet arrived to wipe out House Metarius; A hive of native creatures in close proximity that posed a significant threat to the base.  More importantly, a spore that inhabits native creatures and subverts their will; a spore that could cure the sick young girl, Paige, slowly wasting away in a hospital bed in Casandra’s Crossing.
+
  Simultaneously Madison was completing the decryption of the hard drive taken from the observation post.  Between information from Blackthumb and the data decrypted by Madison Jace was able to put together a rudimentary timeline of events, that perhaps created more questions than it answered.
+ 
 In 4998U the UNS-L Flawless Victory departed Wenshan station for the last time.  Her sister ship, the Unyielding Triumph was departing Bright at near the same time.
+
 In 5003U Blackthumb reports that FOB Huntly fell to organized clandestine forces—That UNEF forces at FOB Huntly weren’t even able to transmit a distress call.
+
 In 5008U The Flawless Victory was due to arrive at Bright.  So far, no record of its arrival has been found.
+
 In 5011U automated observation posts detect and report a large space battle occurring in open space between Kiemene and Kustra.  Just a few weeks later, another observation post records a large ship crash landing in the Te’tasiilaq region to the west.
+
 In 5018U an observation post detects a sky bloom consistent with the overload of a nearlight drive.  The point of origin and timing is consistent with the arrival of the Unyielding Triumph.
