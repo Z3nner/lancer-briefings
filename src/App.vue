@@ -149,7 +149,7 @@ export default {
         "headerTitle": "UNION",
         "headerSubtitle": "DOJ/HR",
         "subheaderTitle": "LIBERATOR AUXILIARY",
-        "subheaderSubtitle": "DIAMOND DOGS",
+        "subheaderSubtitle": "HALF-PINT HEROES",
       }
     }
   },
