@@ -1,21 +1,13 @@
 # Planet Kiemene - Gateway Region - Calus Preserve // Late 5022U
-Eager to get the UNEF Exiles back into fighting shape, our Lancers woke early, ready to hunt giant mutant Sabertusk pigs. They found the UNEF Exiles paying their last respects to the fallen Bob Calderan, killed in an artillery strike during the battle with the AutoScavs.  After saying their parting words, the group prepared for and departed on the hunt.
+The morning after the Half-Pint Heroes and UNEF exiles celebrate a very successful hunt, most of the group prepares to move out and journey to Casandra’s Crossing to barter their spoils.  Moral is high as the exiles feel purpose and duty for the first time in a very long time.  Not wanting to spoil the mood, and visibly relieved at her gaps in memory, nobody tells Press about her violent actions the night before.  Stormshot, bruised about the face and ego, avoids contact with most and defaults to maintaining a professional bearing.
+Raven puzzles over the decrypted data from the Observation Post, trying to piece together a cohesive narrative while Madison conducts Wraith’s prechecks.
 
-Sneaking up on a group of unsuspecting Saburtusk’s, the Lancers triggered their ambush, felling two of the great beasts and forcing a third to flee into a waiting trap.  A fourth however, escaped and Widowmaker gave chase, unwittingly running into the hunting grounds of a great Gricca, a thirty-foot tall genetically engineered reptilian killing machine.  He had just enough time for one panicked radio transmission before the nightmare was upon him.  The Lancers came quickly to his aid, sending forth a withering barrage of fire and finally blasting the creature straight off of him.  Just as they ended the first Gricca, a second came charging in.  It too fell quickly as the Lancers formed a line against which, the Gricca could not hope to break.
+As smooth as a well-oiled machine the UNEF exiles break camp and together with the Half-Pints move out, marching for Casandra’s Crossing.
 
-Returning to camp with their spoils, the UNEF exiles and our Lancers spent most of the day processing the spoils of their hunt and preparing for the night’s feast.
-Much enjoyment was had, and surprisingly delicious liquor consumed.  In a moment of rare alcohol induced vulnerability Lysa let slip a secret from her past, only to be spurned by Latha.  Latha’s barb did not go unanswered as Lysa’s wrath was vicious and quick.  Only ending when broken apart by the leader of Ruby Squad, CSG Kush Ramsey.  After the altercation, the night quickly begun to wind down.
+Hours into the march, Raven and Stormshot nearly stumble into an active hunt.  A pack of bestial quadrupedal apex predators have surrounded and wounded a mysterious and beautiful creature which they soon discover has inexplicable abilities.
 
-As the hours grew long, the sun threatening to crest the horizon, Jace sat with Caylor Fielding in hopes of learning as much as he could about situation in Bright.  Fielding spoke of an old Metarius base, lost in the Te’Raggis desert rich in spoils, including whitewash nanites.  He spoke of the reason for this base’s abandonment years before the SecCom fleet arrived to wipe out House Metarius; A hive of native creatures in close proximity that posed a significant threat to the base.  More importantly, a spore that inhabits native creatures and subverts their will; a spore that could cure the sick young girl, Paige, slowly wasting away in a hospital bed in Casandra’s Crossing.
+Not waiting for confirmation on the ROE for interfering with local wildlife, Raven storms into the clearing, intent to rescue the beleaguered creature.  It doesn’t take him long to feel the consequences of this bumrush as the lightning quick predators turn their attention to him, forcing Stormshot to rush into the fray as well.
 
- Simultaneously Madison was completing the decryption of the hard drive taken from the observation post.  Between information from Blackthumb and the data decrypted by Madison Jace was able to put together a rudimentary timeline of events, that perhaps created more questions than it answered.
- 
-In 4998U the UNS-L Flawless Victory departed Wenshan station for the last time.  Her sister ship, the Unyielding Triumph was departing Bright at near the same time.
+Soon joined by Press the Half-Pints make short work of the predators and Jace approaches the creature, which Madison identifies as a Stilline, a fabled creature assumed native to a far-off world designated as a national park by Union, its only human inhabitants living a reclusive lifestyle in a few arcologies at the edge of a continent spanning jungle.  The massive lion like creature lies down to allow Jace to patch it up.  With a forceful nuzzle from a creature with the head the size of his chest, the Stilline knocks Jace from his feet before disappearing into thin air.
 
-In 5003U Blackthumb reports that FOB Huntly fell to organized clandestine forces—That UNEF forces at FOB Huntly weren’t even able to transmit a distress call.
-
-In 5008U The Flawless Victory was due to arrive at Bright.  So far, no record of its arrival has been found.
-
-In 5011U automated observation posts detect and report a large space battle occurring in open space between Kiemene and Kustra.  Just a few weeks later, another observation post records a large ship crash landing in the Te’tasiilaq region to the west.
-
-In 5018U an observation post detects a sky bloom consistent with the overload of a nearlight drive.  The point of origin and timing is consistent with the arrival of the Unyielding Triumph.
+Perhaps awed, perhaps in wonder or simply confused, the party continues on toward Casandra’s Crossing.
