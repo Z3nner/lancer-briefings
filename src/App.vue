@@ -139,7 +139,7 @@ export default {
         },
 		{
           "callsign": "FRIZZ",
-          "alias": "Cassius Felar",
+          "alias": "Cassius Fellar",
           "code": "4NJEBS",
           "corpro": "IPS-N",
           "frame": "Lancaster",
