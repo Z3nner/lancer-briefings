@@ -77,7 +77,6 @@ import Footer from './components/layout/Footer.vue';
 import Mission from './components/Mission.vue';
 import Pilot from './components/Pilot.vue';
 import Markdown from 'vue3-markdown-it';
-
 export default {
   components: {
     Header,
@@ -86,7 +85,6 @@ export default {
     Pilot,
     Markdown
   },
-
   data() {
     return {
       "mission_slug": "002",
@@ -118,7 +116,7 @@ export default {
         {
           "callsign": "PRESS",
           "alias": "Lysa Bench",
-          "code": "6459512c-b008-42da-80d8-af02bdb5ecb9//7abb59c3-c14c-42a5-8bac-252736a35496",
+          "code": "AQW897",
           "corpro": "SSC",
           "frame": "Atlas",
           "mech": "BLOODY_SEVEN"
@@ -126,7 +124,7 @@ export default {
         {
           "callsign": "RAVEN",
           "alias": "CWO JACE RAVEN",
-          "code": "35b63169-1f4d-4bca-8e36-f58a1506aad5//5e327368-bf05-4bb0-996e-18441c4818fd",
+          "code": "KYDR86",
           "corpro": "SSC",
           "frame": "Duskwing",
           "mech": "Wraith"
@@ -134,10 +132,18 @@ export default {
         {
           "callsign": "STORMSHOT",
           "alias": "Latha Sarpy",
-          "code": "2f07437b-adb5-4ff0-bc98-0b12a9ff0c29//f50adb54-8a1f-4201-8c16-22446bcb06fe",
+          "code": "MMHEP9",
           "corpro": "IPS-N",
           "frame": "Caliban",
           "mech": "A Little Shock"
+        },
+		{
+          "callsign": "FRIZZ",
+          "alias": "Cassius Felar",
+          "code": "4NJEBS",
+          "corpro": "IPS-N",
+          "frame": "Lancaster",
+          "mech": "Unbreakable Union"
         },
       ],
       "header": {
@@ -153,16 +159,12 @@ export default {
       }
     }
   },
-
   created() {
     this.loadMissionMarkdown()
     this.loadEventsMarkdown()
   },
-
   computed: {
-
   },
-
   methods: {
     selectMission(mission) {
       this.mission_slug = mission.slug;
@@ -189,7 +191,6 @@ export default {
       client.send();
     }
   }
-
 }
 </script>
 
