@@ -141,6 +141,7 @@ header {
     text-transform: uppercase;
     letter-spacing: 0.12em;
     padding-left: 0.32em;
+    color: $text-headers;
   }
 
   #subtitle-header {
@@ -151,6 +152,7 @@ header {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.08em;
+    color: $text-headers;
   }
 
   #subtitle-subheader {
@@ -161,6 +163,7 @@ header {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.02em;
+    color: $text-headers;
   }
 }
 
