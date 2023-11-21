@@ -87,63 +87,48 @@ export default {
   },
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "001",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "002",
-          "name": "Operation Roanoke",
-          "status": "start"
-        },
-        {
-          "slug": "004",
-          "name": "Subsistance",
-          "status": "success"
-        },
-        {
-          "slug": "003",
-          "name": "Reconnect",
-          "status": "success"
-        },
-       {
           "slug": "001",
-          "name": "Pitstop",
-          "status": "success"
-        },
+          "name": "Union Business",
+          "status": "start"
+        }
       ],
       "pilots": [
         {
-          "callsign": "PRESS",
-          "alias": "Lysa Bench",
-          "code": "AQW897",
+          "callsign": "BABUSKA",
+          "alias": "Valencia Onatop",
+          "code": "LVSOLG",
           "corpro": "SSC",
-          "frame": "Atlas",
-          "mech": "BLOODY_SEVEN"
+          "frame": "Death's Head",
+          "mech": "White Out"
         },
         {
-          "callsign": "RAVEN",
-          "alias": "CWO JACE RAVEN",
-          "code": "KYDR86",
-          "corpro": "SSC",
-          "frame": "Duskwing",
-          "mech": "Wraith"
+          "callsign": "BREEZE",
+          "alias": "Xan Ordin",
+          "code": "7H9Q99",
+          "corpro": "Horus",
+          "frame": "Hydra",
+          "mech": "Oni"
         },
         {
           "callsign": "STORMSHOT",
           "alias": "Latha Sarpy",
-          "code": "MMHEP9",
-          "corpro": "IPS-N",
-          "frame": "Caliban",
-          "mech": "A Little Shock"
+          "code": "7UN3A7",
+          "corpro": "SSC",
+          "frame": "White Witch",
+          "mech": "Ad Infinitum"
         },
 		{
-          "callsign": "FRIZZ",
-          "alias": "Cassius Fellar",
-          "code": "4NJEBS",
-          "corpro": "IPS-N",
-          "frame": "Lancaster",
-          "mech": "Unbreakable Union"
+          "callsign": "DELICATE TOUCH",
+          "alias": "Wilhelmina Nill",
+          "code": "AE8JS3",
+          "corpro": "HA",
+          "frame": "Iskander",
+          "mech": "Who's On First"
         },
       ],
       "header": {
@@ -153,9 +138,9 @@ export default {
         "gate": "WENSHAN",
         "ring": "ANNAMITE / DISTAL",
         "headerTitle": "UNION",
-        "headerSubtitle": "DOJ/HR",
-        "subheaderTitle": "LIBERATOR AUXILIARY",
-        "subheaderSubtitle": "HALF-PINT HEROES",
+        "headerSubtitle": "AUTHORIZED CONTRACTOR",
+        "subheaderTitle": "REVENANT DAWN",
+        "subheaderSubtitle": "[ENTERNAMEHERE]",
       }
     }
   },

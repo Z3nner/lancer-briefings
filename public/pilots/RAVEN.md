@@ -1,4 +1,0 @@
-TBA
-
-## Trivia
-- TBA
