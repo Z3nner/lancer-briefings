@@ -137,10 +137,10 @@ export default {
         "system": "BRIGHT",
         "gate": "WENSHAN",
         "ring": "ANNAMITE / DISTAL",
-        "headerTitle": "MR",
-        "headerSubtitle": "MATRYOSHKA REVISIONISTS",
-        "subheaderTitle": "INDEPENTANT STARSHIP",
-        "subheaderSubtitle": "REVENANT DAWN",
+        "headerTitle": "MATRYOSHKA REVISIONISTS",
+        "headerSubtitle": "™",
+        "subheaderTitle": "REVENANT DAWN",
+        "subheaderSubtitle": "ALPHA SQUAD",
       }
     }
   },
