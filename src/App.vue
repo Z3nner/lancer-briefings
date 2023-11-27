@@ -137,10 +137,10 @@ export default {
         "system": "BRIGHT",
         "gate": "WENSHAN",
         "ring": "ANNAMITE / DISTAL",
-        "headerTitle": "UNION",
-        "headerSubtitle": "AUTHORIZED CONTRACTOR",
-        "subheaderTitle": "REVENANT DAWN",
-        "subheaderSubtitle": "[ENTERNAMEHERE]",
+        "headerTitle": "MR",
+        "headerSubtitle": "MATRYOSHKA REVISIONISTS",
+        "subheaderTitle": "INDEPENTANT STARSHIP",
+        "subheaderSubtitle": "REVENANT DAWN",
       }
     }
   },
