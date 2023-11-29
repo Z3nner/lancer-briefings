@@ -139,7 +139,7 @@ export default {
         "ring": "ANNAMITE / DISTAL",
         "headerTitle": "MATRYOSHKA REVISIONISTS",
         "headerSubtitle": "™",
-        "subheaderTitle": "REVENANT DAWN",
+        "subheaderTitle": "REVENANT DAWN ",
         "subheaderSubtitle": "ALPHA SQUAD",
       }
     }
